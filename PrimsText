@@ -1,0 +1,44 @@
+19csu003-aastha
+adjecency list
+
+Vertex 0--->1 3 
+Vertex 1--->0 2 3 4 
+Vertex 2--->1 4 
+Vertex 3--->0 1 4 
+Vertex 4--->1 2 3 
+
+Vertex 0--->1 3 
+Vertex 1--->0 2 3 4 
+Vertex 2--->1 4 
+Vertex 3--->0 1 4 
+Vertex 4--->1 2 3 
+
+Vertex 0--->1 3 
+Vertex 1--->0 2 3 4 
+Vertex 2--->1 4 
+Vertex 3--->0 1 4 
+Vertex 4--->1 2 3 
+
+Vertex 0--->1 2 3 
+Vertex 1--->0 3 4 
+Vertex 2--->0 3 4 
+Vertex 3--->0 1 2 4 
+Vertex 4--->1 2 3 
+
+Vertex 0--->1 2 3 
+Vertex 1--->0 3 4 
+Vertex 2--->0 3 4 
+Vertex 3--->0 1 2 4 
+Vertex 4--->1 2 3 
+
+Vertex 0--->1 2 3 
+Vertex 1--->0 3 4 
+Vertex 2--->0 3 4 
+Vertex 3--->0 1 2 4 
+Vertex 4--->1 2 3 
+
+Vertex 0--->1 2 3 
+Vertex 1--->0 3 4 
+Vertex 2--->0 3 4 
+Vertex 3--->0 1 2 4 
+Vertex 4--->1 2 3 
