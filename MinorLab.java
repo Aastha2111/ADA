@@ -3,6 +3,8 @@ package march;
 import java.util.Scanner;
 
 //JSMJ
+//19csu003
+//11-05-21
 public class MinorLab {
 
  //	Write a function to generate all possible combination of 10 given characters.
